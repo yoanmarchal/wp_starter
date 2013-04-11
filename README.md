@@ -1,0 +1,1 @@
+Starter Theme for WP Projects at TRS
